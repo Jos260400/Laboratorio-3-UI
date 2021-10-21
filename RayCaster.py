@@ -161,7 +161,7 @@ def main_menu():
 
         screen.blit(bg, (0,0))
 
-        # print(btn_ctr)
+   
 
         draw_text('Lab 3 UI', font, (255, 255, 255), screen, 450, 20)
  
