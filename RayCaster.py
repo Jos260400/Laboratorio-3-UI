@@ -7,7 +7,7 @@
 import pygame, sys
 
 from math import cos, sin, pi
-# Si estan en C++, pueden utilizar SDL
+
 
 mainClock = pygame.time.Clock()
 
